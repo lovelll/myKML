@@ -1,0 +1,8 @@
+E:\KML李中元老师\test\myAccessKML\myAccessKML\obj\Debug\myAccessKML.csprojResolveAssemblyReference.cache
+E:\KML李中元老师\test\myAccessKML\myAccessKML\obj\Debug\myAccessKML.Form1.resources
+E:\KML李中元老师\test\myAccessKML\myAccessKML\obj\Debug\myAccessKML.Properties.Resources.resources
+E:\KML李中元老师\test\myAccessKML\myAccessKML\obj\Debug\myAccessKML.csproj.GenerateResource.Cache
+E:\KML李中元老师\test\myAccessKML\myAccessKML\bin\Debug\myAccessKML.exe
+E:\KML李中元老师\test\myAccessKML\myAccessKML\bin\Debug\myAccessKML.pdb
+E:\KML李中元老师\test\myAccessKML\myAccessKML\obj\Debug\myAccessKML.exe
+E:\KML李中元老师\test\myAccessKML\myAccessKML\obj\Debug\myAccessKML.pdb
